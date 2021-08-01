@@ -1,15 +1,10 @@
 body {
   font-family: "Sanchez", serif;
-  padding: 50px 50px 50px 50px;
-  background: linear-gradient(
-    109.6deg,
-    rgb(231, 139, 150) 11.2%,
-    rgb(255, 255, 255) 92.2%
-  );
+  background: #fcffc1;
 }
 
 h1 {
-  color: #152e50;
+  color: #1dad9b;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -26,7 +21,7 @@ li {
   margin: 0;
   padding: 0;
 
-  color: #152e50;
+  color: #1dad9b;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
